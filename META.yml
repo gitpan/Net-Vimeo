@@ -34,4 +34,4 @@ requires:
   URI: '1.6'
   URI::Escape: '3.31'
   perl: '5.006'
-version: '0.000001'
+version: '0.000002'
