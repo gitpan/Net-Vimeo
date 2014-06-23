@@ -33,5 +33,6 @@ requires:
   Types::Standard: '0.044'
   URI: '1.6'
   URI::Escape: '3.31'
+  namespace::autoclean: '0'
   perl: '5.006'
-version: '0.000002'
+version: '0.000003'
